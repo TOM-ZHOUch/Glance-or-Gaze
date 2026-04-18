@@ -1,2 +1,2 @@
 # Glance-or-gaze-incentivizing-lmms-to-adaptively-focus-search-via-reinforcement-learning
-The datasets, code will be released, stay tuned!
+The code and models will be released, stay tuned!
