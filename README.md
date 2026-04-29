@@ -1,10 +1,5 @@
 <h1 align="center"> Glance-or-Gaze (GoG)</h1>
 
-<p align="center">
-<img src="figs/icon.png" alt="logo" height="40" align="center" />
-<a href="">Project Page</a>
-</p>
-
 The official repo for "Glance-or-Gaze: Incentivizing LMMs to Adaptively Focus Search via Reinforcement Learning".
 
 <p align="center">
