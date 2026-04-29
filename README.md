@@ -25,7 +25,7 @@
 
 ---
 
-## 📅 Timeline
+## Timeline
 
 - **[2026/04/29]** 🚀 We released our model checkpoints, including both SFT and RL versions: [GoG-SFT-Qwen2.5-7B](https://huggingface.co/Edwinzz/GoG-SFT-Qwen2.5-7B), [GoG-RL-Qwen2.5-7B](https://huggingface.co/Edwinzz/GoG-RL-Qwen2.5-7B), [GoG-SFT-Qwen3-8B-Thinking](https://huggingface.co/Edwinzz/GoG-SFT-Qwen3-8B-Thinking), and [GoG-RL-Qwen3-8B-Thinking](https://huggingface.co/Edwinzz/GoG-RL-Qwen3-8B-Thinking)! Evaluation code and dataset will be released soon, stay tuned!
 
